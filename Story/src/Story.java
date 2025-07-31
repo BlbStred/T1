@@ -4,6 +4,7 @@ public class Story {
     public static void main(String[] args) {
 
         System.out.println("Once upon a time,");
+        System.out.println("far, far away,");
 
     }
 }
