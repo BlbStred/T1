@@ -5,7 +5,7 @@ public class Story {
 
         System.out.println("Once upon a time,");
         System.out.println("far, far away,");
-        System.out.println("They lived happily ever after");
+        System.out.println("They lived happily ever after!");
 
     }
 }
